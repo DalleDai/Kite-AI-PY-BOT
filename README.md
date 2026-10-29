@@ -69,7 +69,7 @@ To use it, simply add your API key to 2captcha_key.txt.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/cryptodai3/Kite-AI-PY-BOT.git
+git clone https://github.com/DalleDai/Kite-AI-PY-BOT.git
 cd Kite-AI-PY-BOT
 ```
 
